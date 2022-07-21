@@ -1,0 +1,17 @@
+{
+  "name": "casparcg-timer-bitfocus",
+  "version": "0.0.1",
+  "description": "Middleware to send remaining time to Bitfocus Companion. This is a hobby project. ",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.9",
+    "node-osc": "^8.0.3",
+    "seconds-to-timestamp": "0.0.2"
+  }
+}
